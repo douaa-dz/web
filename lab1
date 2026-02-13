@@ -1,6 +1,17 @@
-      Welcome my website
-                                     Dev Web 
-Full Name: bouhafs douaa
-Age:20
-Class:2
-Univasity:informatique
+<h1><b>Welcome my website</b></h1>
+<center><u>Dev Web</u></center>
+<h1>Full Name</h1>: <h4><mark> bouhafs douaa</mark></h4>
+<h1>Age</h1>:<h3><mark>20</mark></h3>
+<h1>Class</h1>:<h3><mark>2</mark></h3>
+
+<h1>Univasity</h1>:<h3><mark>informatique</mark></h3>
+
+    <img src="html/photo.jpg"
+    <img src="photo.jpg" alt="My Photo" width="200">
+    
+    
+    img {
+    width: 250px;
+    height: 250px;
+    
+}
