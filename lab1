@@ -6,8 +6,8 @@
 
 <h1>Univasity</h1>:<h3><mark>informatique</mark></h3>
 
-    <img src="html/photo.jpg"
-    <img src="photo.jpg" alt="My Photo" width="200">
+    <img src="c:\Users\DELL\Downloads\Telegram Desktop/photo_2026-02-12_18-36-37.jpg"
+    <img src="" alt="Photo" width="200">
     
     
     img {
@@ -15,3 +15,4 @@
     height: 250px;
     
 }
+
