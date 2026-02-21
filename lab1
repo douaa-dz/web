@@ -1,18 +1,55 @@
-<h1><b>Welcome my website</b></h1>
-<center><u>Dev Web</u></center>
-<h1>Full Name</h1>: <h4><mark> bouhafs douaa</mark></h4>
-<h1>Age</h1>:<h3><mark>20</mark></h3>
-<h1>Class</h1>:<h3><mark>2</mark></h3>
-
-<h1>Univasity</h1>:<h3><mark>informatique</mark></h3>
-
-    <img src="c:\Users\DELL\Downloads\Telegram Desktop/photo_2026-02-12_18-36-37.jpg"
-    <img src="" alt="Photo" width="200">
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
     
+      p{
+      color: green;
+      font-size: 18px;
+       }
     
-    img {
-    width: 250px;
-    height: 250px;
+      h2{ 
+      color: red;
+      } 
+            
+    </style>
+    <style 2>
+      
+      info{
+     padding: 14px; 
+      color: black
+       }
     
-}
+    </style 2>
+    <style 3>
+     img {
+        width: 250px;
+        height: 250px;
+        border: 3px solid black;
+        float: right;
+      }
+      
+       </style 3>
+    
+    <title>My Site</title>
+  
+  </head>  
+  
+  <body> 
+    
+    <h1><center>Welcome to my site </center></h1> 
+    
+    <h2><u><center> Web Development  </center>  </u></h2> 
 
+
+    <p>Full name:  <info > Douaa </info>  </p> 
+    
+    <p>Age:  <info > 19 ans </info> </p>
+    
+    <p>Class: <info >  computer science </info> </p>
+    
+    <p>University:  <info > eloued </info></p> 
+ 
+    <img  src= "https://images.unsplash.com/photo-1501785888041-af3ef285b470"  >
+      </body> 
+    </html>
