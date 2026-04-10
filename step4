@@ -1,0 +1,9 @@
+ <div style="width:100%;background:#ddd;">
+  <div id="bar" style="height:20px;width:0%;background:green;"></div>
+</div>
+[10-04-2026 19:19] 𝒟𝑜𝓊𝒶̂𝒶: function updateBar(gpa) {
+    let percent = (gpa / 4) * 100;
+    let bar = document.getElementById("bar");
+
+    bar.style.width = percent + "%";
+}
